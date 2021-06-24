@@ -16,7 +16,7 @@ import pySaliencyMap
 # main
 if __name__ == '__main__':
     # read
-    img = cv2.imread('test3.jpg')
+    img = cv2.imread('test_lu3.jpg')
     # initialize
     imgsize = img.shape
     img_width  = imgsize[1]
