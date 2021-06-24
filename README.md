@@ -11,6 +11,7 @@
 ## Faire marcher le programme :
 
 Mettre les images dans le même dossier.
+Modifier le nom à [la ligne 19 du fichier main.py](./main.py#L19).
 
 ## Lancer le programme :
 
